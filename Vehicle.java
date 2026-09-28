@@ -20,7 +20,7 @@ public class Vehicle {
 
     
     public int calculateAge() {
-        int currentYear = 2026; // pwede mong palitan depende sa current year
+        int currentYear = 2026; 
         return currentYear - year;
     }
 
