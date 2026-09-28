@@ -1,5 +1,5 @@
 public class Vehicle {
-    
+   
     String brand;
     String model;
     int year;
@@ -20,7 +20,7 @@ public class Vehicle {
 
     
     public int calculateAge() {
-        int currentYear = 2026; 
+        int currentYear = 2026; // pwede mong palitan depende sa current year
         return currentYear - year;
     }
 
@@ -29,3 +29,4 @@ public class Vehicle {
         return calculateAge() >= 20;
     }
 }
+
