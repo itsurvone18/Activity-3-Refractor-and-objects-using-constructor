@@ -1,10 +1,9 @@
 # Lab 4 Encapsulation
 
-Name: [Your Name]
-Section: 2A
+Name: [Abinal, Jevone Cyrille G.]
+Section: 2E
 
 Console Output:
-```text
 Vehicle 1:
 Brand: Nissan
 Model: Navarra
